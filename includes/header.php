@@ -22,7 +22,8 @@
 		<div id="header">
 			<div id="sub-header">
 				<div id="logo">
-					<p>Posts<span>This is a blog something about technologies on the web...</span></p>
+					<h1>Posts</h1>
+					<p>This is a blog about technologies on the web...</p>
 				</div> <!-- End of logo -->
 				<div id="nav">
 					<ul>
