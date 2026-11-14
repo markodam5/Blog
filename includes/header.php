@@ -14,7 +14,7 @@
 		<link rel="stylesheet" type="text/css" href="assets/form.css">
 		<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-		<title>Blog</title>
+		<title>Web Notes</title>
 	</head>
 
 <body>
@@ -22,8 +22,8 @@
 		<div id="header">
 			<div id="sub-header">
 				<div id="logo">
-					<h1>Posts</h1>
-					<p>This is a blog about technologies on the web...</p>
+					<h1>Web Notes</h1>
+					<p>Practical ideas for building on the web.</p>
 				</div> <!-- End of logo -->
 				
 				<div id="nav">
@@ -58,10 +58,16 @@
 		 <!-- Page Content: -->
 		<div id="sub-wrapper">
 			<div id="main">
-				<h2>List of posts content:</h2>
-				
 				<div id="sub-main">
-					
+					<section class="page-intro" aria-labelledby="page-title">
+						<p class="eyebrow">Web development, without the noise</p>
+						<h2 id="page-title">Ideas and guides for the modern web</h2>
+						<p>Explore practical notes on programming, tools, and the technology behind the websites we use every day.</p>
+  					</section>
+					<div class="section-heading">
+						<h2 id="articles-title">Latest articles</h2>
+						<p>Fresh ideas from the blog</p>
+    				</div>
 				
 	<?php
 	// PAGINATION ===========================================================================

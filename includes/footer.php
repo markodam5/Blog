@@ -46,8 +46,8 @@
 
 
 		<div id="footer">
-			<p>Copyright & Marko Damjanac</p>
-	    </div><!-- #footer -->
+			<p>© 2026 Web Notes. Ideas and guides for the modern web.</p>
+	  </div><!-- #footer -->
 	</div><!-- end #wrapper -->
     
 
